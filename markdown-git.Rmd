@@ -1,5 +1,6 @@
 ---
 title: "Markdown Git"
+author: "Daniela Gomez"
 output: html_document
 date: '2022-07-07'
 ---
